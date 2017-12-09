@@ -9,7 +9,7 @@ Output: "s'teL ekat edoCteeL tsetnoc"
 
 **Complexity Analysis**
 * Solution1
-** Time complexity : O(n)O(n). where nn is the length of the string.
-** Space complexity : O(n)O(n). resres of size nn is used.
+..* **Time complexity** : O(n)O(n). where nn is the length of the string.
+..* **Space complexity** : O(n)O(n). resres of size nn is used.
 
 [LeetCode link](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
