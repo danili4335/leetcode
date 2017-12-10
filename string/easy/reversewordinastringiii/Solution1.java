@@ -12,7 +12,7 @@ public class Solution1 {
 
    public static void main(String[] args) {
         String test = "this is a holiday's test";
-        Solution1 s = new Solution1();
+        Solution2 s = new Solution2();
         System.out.println(test);
         System.out.println(s.reverseWords(test));
    }

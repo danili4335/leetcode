@@ -8,8 +8,8 @@ Output: "s'teL ekat edoCteeL tsetnoc"
 **Note:** In the string, each word is separated by single space and there will not be any extra space in the string.
 
 **Complexity Analysis**
-* Solution1
-  * **Time complexity** : O(n)O(n). where nn is the length of the string.
-  * **Space complexity** : O(n)O(n). resres of size nn is used.
+* Solution1, Solution2
+  * **Time complexity** : O(n). where n is the length of the string.
+  * **Space complexity** : O(n). res of size n is used.
 
 [LeetCode link](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
